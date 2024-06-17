@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mann Patel 
-Masters Student at Dalhousie University
+* 📚  Masters Student at Dalhousie University
 * 🌍  I'm based in Halifax, Nova Scotia
 * ✉️  You can contact me at [mannpatel@dal.ca](mailto:mannpatel@dal.ca)
 
